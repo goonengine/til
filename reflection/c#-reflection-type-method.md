@@ -1,5 +1,5 @@
 # Usage of Reflection
-It's useful for getting values of an instance.
+It's useful that the way of getting values of an instance.
 
 ``` C#
 public class Hero {
@@ -30,7 +30,7 @@ public class Program
 {
 	public static void Main ( string[] args )
 	{
-		Hero hero = new Hero("-1", "Man?", true);
+		Hero hero = new Hero("-1", "Men?", true);
 		hero.nick = "The Man of Steel";
 		hero.name = "Superman";
 		Type r_type = hero.GetType();
