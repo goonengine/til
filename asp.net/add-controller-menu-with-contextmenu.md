@@ -12,5 +12,5 @@ If you didn't see 'Add controller' on the context menus in the Visual Studio, fo
 - ASP.NET MVC 4   {E3E379DF-F4C6-4180-9B81-6769533ABE47}
 - ASP.NET MVC 5   {349C5851-65DF-11DA-9384-00065B846F21}
 
-### ref. (What a awesome heros in the StackOverflow. Thanks all. Have a great day all of you.)
+### ref. (What a awesome heroes in the StackOverflow. Thanks all. Have a great day all of you.)
 - http://stackoverflow.com/questions/10540198/context-menu-to-add-controller-view-missing
