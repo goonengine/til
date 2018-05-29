@@ -1,7 +1,7 @@
 How to way of setting an other Home directory instead of the Default Home directory.
 
 - in the App_Start/RouteConfig.
-<pre><code>
+```c#
   public static void RegisterRoutes(RouteCollection routes)
   {
       routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
@@ -12,4 +12,4 @@ How to way of setting an other Home directory instead of the Default Home direct
           defaults: new { controller = "Home", action = "Main", id = UrlParameter.Optional }
       );
   }
-</code></pre>
+```
