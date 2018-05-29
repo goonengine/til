@@ -3,8 +3,8 @@
 - The renderer did not find other 'Areas' view page, but even the page exists clearly.
 - So, I added the file extension string on the path, it solved. :)
 
-<pre>
+```c#
 Html.RenderPartial("\~/Areas/Reviews/Views/Post", Model)
  VS
-Html.RenderPartial("\~/Areas/Reviews/Views/Post.<strong>cshtml</strong>", Model)
-</pre>
+Html.RenderPartial("\~/Areas/Reviews/Views/Post.cshtml", Model)
+```
