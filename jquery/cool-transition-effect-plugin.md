@@ -1,6 +1,6 @@
 Some Cool transition effect plugin of jquery.
 - http://ricostacruz.com/jquery.transit
 
-<code>
+```javascript
   $('.box').transition({ opacity: 0 });
-</code>
+```
